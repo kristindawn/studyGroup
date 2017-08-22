@@ -1,6 +1,7 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Kristin Lee
+  affiliation: Tisch Library
+  github: kristindawn
   interests:
-    - Programming
+    - Metadata
     - Open Science
+    - Research Data Management
